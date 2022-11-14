@@ -60,7 +60,7 @@ public class Application {
 	 */
 	private void initialize() {
 		frame = new JFrame();
-		frame.setBounds(120, 80, 450, 300);
+		frame.setBounds(100, 75, 450, 300);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
 		JPanel panel = new JPanel();
